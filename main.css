@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+}
+div{
+    display: inline-block;
+}
+.food1{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+   
+    
+}
+.food2{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+    
+    
+}
+.food3{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+}
+.food4{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+}
+.food5{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+}
+.food6{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+}
+.food7{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+}
+.food8{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+}
+.food9{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+}
+.food10{
+    width: 150px;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 20%;
+    text-align: center;
+    font-weight: bolder;
+}
+.end{
+    display: inline;
+    text-align: center;
+    
+}
